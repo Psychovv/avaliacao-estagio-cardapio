@@ -82,14 +82,3 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas:
     ```
     > O `live-server` iniciará automaticamente o `index.html` no seu navegador. A aplicação estará pronta para uso.
 
----
-
-## 📸 Capturas de Tela
-
-*Substitua `listagem-cardapio.png` e `envio-pedido.png` pelos nomes dos seus arquivos de imagem.*
-
-**Tela Principal com o Cardápio:**
-![Tela principal do cardápio](listagem-cardapio.png)
-
-**Carrinho com Itens e Formulário de Pedido Preenchido:**
-![Tela do carrinho e pedido](envio-pedido.png)
