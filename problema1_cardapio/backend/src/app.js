@@ -1,15 +1,15 @@
-// src/app.js
+// backend/src/app.js (
 const express = require('express');
 const cors = require('cors');
 const cardapioRoutes = require('./routes/cardapio.routes');
+const pedidosRoutes = require('./routes/pedidos.routes'); 
 
 const app = express();
 
-// Middlewares
 app.use(cors());
 app.use(express.json());
 
-// Rotas
-app.use('/', cardapioRoutes); 
+app.use('/', cardapioRoutes);
+app.use('/', pedidosRoutes); 
 
-module.exports = app; 
+module.exports = app;
