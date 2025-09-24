@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "X-Burger Clássico",
+    "categoria": "Lanches",
+    "preco": 25.50
+  },
+  {
+    "id": 2,
+    "nome": "X-Salada Especial",
+    "categoria": "Lanches",
+    "preco": 28.00
+  },
+  {
+    "id": 3,
+    "nome": "Batata Frita Média",
+    "categoria": "Lanches",
+    "preco": 15.00
+  },
+  {
+    "id": 4,
+    "nome": "Refrigerante Lata",
+    "categoria": "Bebidas",
+    "preco": 6.00
+  },
+  {
+    "id": 5,
+    "nome": "Suco Natural de Laranja",
+    "categoria": "Bebidas",
+    "preco": 9.00
+  },
+  {
+    "id": 6,
+    "nome": "Água Mineral",
+    "categoria": "Bebidas",
+    "preco": 4.00
+  },
+  {
+    "id": 7,
+    "nome": "Pudim de Leite",
+    "categoria": "Doces",
+    "preco": 12.00
+  },
+  {
+    "id": 8,
+    "nome": "Brownie com Sorvete",
+    "categoria": "Doces",
+    "preco": 18.50
+  }
+]
