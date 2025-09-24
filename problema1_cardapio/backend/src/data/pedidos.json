@@ -1,0 +1,57 @@
+[
+  {
+    "nomeCliente": "medina",
+    "observacoes": "opa",
+    "itens": [
+      {
+        "id": 4,
+        "nome": "Refrigerante Lata",
+        "categoria": "Bebidas",
+        "preco": 6,
+        "quantity": 1
+      }
+    ],
+    "total": 6,
+    "id": 1758717333243,
+    "timestamp": "2025-09-24T12:35:33.243Z"
+  },
+  {
+    "nomeCliente": "teste",
+    "observacoes": "opa",
+    "itens": [
+      {
+        "id": 8,
+        "nome": "Brownie com Sorvete",
+        "categoria": "Doces",
+        "preco": 18.5,
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "nome": "Pudim de Leite",
+        "categoria": "Doces",
+        "preco": 12,
+        "quantity": 1
+      }
+    ],
+    "total": 30.5,
+    "id": 1758717344820,
+    "timestamp": "2025-09-24T12:35:44.820Z"
+  },
+  {
+    "nomeCliente": "opa",
+    "observacoes": "dale dele dele dolly",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      }
+    ],
+    "total": 28,
+    "id": 1758717751712,
+    "timestamp": "2025-09-24T12:42:31.712Z"
+  }
+]
