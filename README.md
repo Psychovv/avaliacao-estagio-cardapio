@@ -6,9 +6,10 @@ Projeto desenvolvido como parte da avaliação técnica para a vaga de Estágio 
 
 ## ✨ Funcionalidades
 
-- **Visualização do Cardápio:** Os itens são carregados a partir de um backend e exibidos na interface, separados por categoria.
-- **Busca Dinâmica:** O usuário pode buscar por itens do cardápio em tempo real pelo nome.
-- **Carrinho de Compras:** Funcionalidade para adicionar itens, visualizar o subtotal por item e o total geral do pedido.
+- **Visualização do Cardápio:** Os itens são carregados a partir de um backend e exibidos na interface.
+- **Busca por Nome:** O usuário pode buscar por itens do cardápio em tempo real.
+- **Filtro por Categoria:** Botões dinâmicos permitem filtrar os itens por categoria (Lanches, Bebidas, Doces).
+- **Carrinho de Compras:** Funcionalidade para adicionar itens, visualizar o subtotal e o total geral do pedido.
 - **Envio de Pedido:** Um formulário permite que o cliente insira seu nome e observações, enviando o pedido completo para o backend.
 - **Armazenamento de Pedidos:** O backend recebe os pedidos e os salva em um arquivo `pedidos.json`.
 
@@ -49,7 +50,7 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/avaliacao-estagio-cardapio.git](https://github.com/seu-usuario/avaliacao-estagio-cardapio.git)
+    git clone [https://github.com/Psychovv/avaliacao-estagio-cardapio.git](https://github.com/Psychovv/avaliacao-estagio-cardapio.git)
     cd avaliacao-estagio-cardapio
     ```
 
@@ -82,3 +83,18 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas:
     ```
     > O `live-server` iniciará automaticamente o `index.html` no seu navegador. A aplicação estará pronta para uso.
 
+---
+
+## 📸 Capturas de Tela
+
+**1. Tela de Listagem do Cardápio**
+*Interface principal exibindo os produtos e os filtros por categoria.*
+![Tela principal do cardápio](problema1_cardapio/screenshots/listagem-cardapio.png)
+
+**2. Processo de Pedido**
+*Usuário com itens adicionados ao carrinho e preenchendo o formulário para finalizar a compra.*
+![Tela do carrinho e pedido](problema1_cardapio/screenshots/pedindo.png)
+
+**3. Confirmação do Pedido**
+*Mensagem de sucesso exibida ao usuário após o envio bem-sucedido do pedido.*
+![Mensagem de sucesso após o pedido](problema1_cardapio/screenshots/pedido.png)

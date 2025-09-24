@@ -53,5 +53,113 @@
     "total": 28,
     "id": 1758717751712,
     "timestamp": "2025-09-24T12:42:31.712Z"
+  },
+  {
+    "nomeCliente": "Medina",
+    "observacoes": "Teste ",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "nome": "X-Burger Clássico",
+        "categoria": "Lanches",
+        "preco": 25.5,
+        "quantity": 1
+      }
+    ],
+    "total": 53.5,
+    "id": 1758718168382,
+    "timestamp": "2025-09-24T12:49:28.382Z"
+  },
+  {
+    "nomeCliente": "Medina",
+    "observacoes": "pedido",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "nome": "Batata Frita Média",
+        "categoria": "Lanches",
+        "preco": 15,
+        "quantity": 1
+      }
+    ],
+    "total": 43,
+    "id": 1758718233589,
+    "timestamp": "2025-09-24T12:50:33.589Z"
+  },
+  {
+    "nomeCliente": "Medina",
+    "observacoes": "medina",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      }
+    ],
+    "total": 28,
+    "id": 1758718261489,
+    "timestamp": "2025-09-24T12:51:01.489Z"
+  },
+  {
+    "nomeCliente": "Josino",
+    "observacoes": "adsada",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "nome": "Refrigerante Lata",
+        "categoria": "Bebidas",
+        "preco": 6,
+        "quantity": 1
+      }
+    ],
+    "total": 34,
+    "id": 1758718280417,
+    "timestamp": "2025-09-24T12:51:20.417Z"
+  },
+  {
+    "nomeCliente": "Josino",
+    "observacoes": "sem hamburguer",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Salada Especial",
+        "categoria": "Lanches",
+        "preco": 28,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "nome": "X-Burger Clássico",
+        "categoria": "Lanches",
+        "preco": 25.5,
+        "quantity": 1
+      }
+    ],
+    "total": 53.5,
+    "id": 1758718362625,
+    "timestamp": "2025-09-24T12:52:42.625Z"
   }
 ]
